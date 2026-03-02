@@ -149,9 +149,9 @@ namespace HighwayScenarios_1803
                 "MaxConcurrentScenarios=3",
                 "",
                 "[ScenarioSettings]",
-                "TowTruckDuration=120000", // 2 minutes in ms
-                "BrokenDownDuration=180000", // 3 minutes
-                "CrashDuration=240000", // 4 minutes
+                "TowTruckDuration=600000", // 10 min
+                "BrokenDownDuration=600000", // 10 min
+                "CrashDuration=600000", // 10 min
                 "",
                 "[VehicleColors]",
                 "TowTruckPrimary=88", // Yellow
@@ -500,9 +500,9 @@ namespace HighwayScenarios_1803
         public float CheckRadius { get; private set; } = 5f;
         public int MaxConcurrentScenarios { get; private set; } = 3;
 
-        public int TowTruckDuration { get; private set; } = 120000;
-        public int BrokenDownDuration { get; private set; } = 180000;
-        public int CrashDuration { get; private set; } = 240000;
+        public int TowTruckDuration { get; private set; } = 600000;
+        public int BrokenDownDuration { get; private set; } = 600000;
+        public int CrashDuration { get; private set; } = 600000;
 
         public int TowTruckPrimaryColor { get; private set; } = 88;
         public int TowTruckSecondaryColor { get; private set; } = 0;

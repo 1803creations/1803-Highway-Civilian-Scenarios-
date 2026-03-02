@@ -1,8 +1,8 @@
-C:\Users\Matt\source\repos\1803 Highway Scenarios\obj\Debug\1803 Highway Scenarios.csproj.AssemblyReference.cache
-C:\Users\Matt\source\repos\1803 Highway Scenarios\obj\Debug\1803 Highway Scenarios.csproj.CoreCompileInputs.cache
 C:\Users\Matt\source\repos\1803 Highway Scenarios\bin\Debug\1803 Highway Scenarios.dll
 C:\Users\Matt\source\repos\1803 Highway Scenarios\bin\Debug\1803 Highway Scenarios.pdb
 C:\Users\Matt\source\repos\1803 Highway Scenarios\bin\Debug\ScriptHookVDotNet3.dll
+C:\Users\Matt\source\repos\1803 Highway Scenarios\obj\Debug\1803 Highway Scenarios.csproj.AssemblyReference.cache
+C:\Users\Matt\source\repos\1803 Highway Scenarios\obj\Debug\1803 Highway Scenarios.csproj.CoreCompileInputs.cache
 C:\Users\Matt\source\repos\1803 Highway Scenarios\obj\Debug\1803 Highway Scenarios.csproj.CopyComplete
 C:\Users\Matt\source\repos\1803 Highway Scenarios\obj\Debug\1803 Highway Scenarios.dll
 C:\Users\Matt\source\repos\1803 Highway Scenarios\obj\Debug\1803 Highway Scenarios.pdb
